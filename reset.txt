@@ -2,3 +2,4 @@ eeeeeee
 2222222
 1111111
 测试--amand
+测试pull权限
