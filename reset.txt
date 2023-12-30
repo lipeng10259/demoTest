@@ -6,3 +6,6 @@ fetch1
 新加入内容测试stash
 测试pull权限
 fetch
+测试HEAD
+新加stash
+
