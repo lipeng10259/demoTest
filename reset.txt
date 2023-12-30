@@ -7,4 +7,4 @@ fetch1
 测试pull权限
 fetch
 测试HEAD
-测试stash
+新加stash
