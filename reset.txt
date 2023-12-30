@@ -3,5 +3,6 @@ eeeeeee
 1111111
 测试--amand
 fetch1
+新加入内容测试stash
 测试pull权限
 fetch
