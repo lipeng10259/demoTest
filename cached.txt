@@ -18,3 +18,4 @@ array.find(function(currentValue, index, arr),thisValue)
 　○　arr：可选，当前元素所属的数组对象。
 
 ●　thisValue：可选参数，传递给函数的值一般用 "this" 值。如果这个参数为空， "undefined" 会传递给 "this" 值
+测试--amand
