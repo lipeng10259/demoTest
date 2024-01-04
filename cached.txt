@@ -1,1 +1,20 @@
-dsdsdsdfsdf
+Array.find()方法是JavaScript中的一个内置方法，用于获取满足所提供条件的数组中第一个元素的值。
+
+说明：
+
+Array.find()方法检查数组中的所有元素，返回满足条件的第一个元素。
+
+语法：
+
+array.find(function(currentValue, index, arr),thisValue)
+参数：
+
+●　function(currentValue, index,arr)：必需参数，数组每个元素需要执行的函数。函数参数：
+
+　○　currentValue：必需，当前元素；
+
+　○　index：可选，当前元素的索引值；
+
+　○　arr：可选，当前元素所属的数组对象。
+
+●　thisValue：可选参数，传递给函数的值一般用 "this" 值。如果这个参数为空， "undefined" 会传递给 "this" 值
